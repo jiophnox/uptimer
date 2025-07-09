@@ -6,7 +6,8 @@ const app = express();
 // Glitch projects ke URLs
 const URLs = [
   "https://hivajoy.onrender.com",
-  "https://hjuptimer.onrender.com"
+  "https://hjuptimer.onrender.com",
+  "https://terabox-play.onrender.com"
 ];
 
 const TIMEOUT = 30000;
