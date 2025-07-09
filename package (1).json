@@ -1,0 +1,18 @@
+{
+  "name": "glitch-keep-alive",
+  "version": "1.0.0",
+  "description": "A script to keep Glitch projects alive by pinging them regularly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
