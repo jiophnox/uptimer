@@ -5,17 +5,8 @@ const app = express();
 
 // Glitch projects ke URLs
 const URLs = [
-  "https://magenta-leeward-milkshake.glitch.me",
-  "https://rare-invented-olive.glitch.me",
-  "https://brazen-familiar-yumberry.glitch.me",
-  "https://hivajoy-music.glitch.me",
-  "https://panoramic-volcano-receipt.glitch.me",
-  "https://heartbreaking-puzzle-ounce.glitch.me",
-  "https://terabox-play.glitch.me",
-  "https://thread-pepper-forsythia.glitch.me",
-  "https://veil-violet-pigment.glitch.me",
-  "https://nebula-butter-sedum.glitch.me",
-  "https://boiled-stealth-liquid.glitch.me"
+  "https://hivajoy.onrender.com",
+  "https://hjuptimer.onrender.com"
 ];
 
 const TIMEOUT = 30000;
