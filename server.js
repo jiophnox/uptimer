@@ -7,6 +7,7 @@ const app = express();
 const URLs = [
   "https://hivajoy.onrender.com",
   "https://hjuptimer.onrender.com",
+  "https://file-to-link-bot-rrwk.onrender.com",
   "https://terabox-play.onrender.com"
 ];
 
