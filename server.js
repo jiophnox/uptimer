@@ -9,6 +9,7 @@ const URLs = [
   "https://hjuptimer.onrender.com",
   "https://file-to-link-bot-rrwk.onrender.com",
   "https://terabox-play.onrender.com",
+  "https://og-terabox-player.onrender.com",
   "https://astrologerbot.onrender.com"
 ];
 
