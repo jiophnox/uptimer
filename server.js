@@ -5,7 +5,8 @@ const app = express();
 
 // Glitch projects ke URLs
 const URLs = [
-  "https://hivajoyhub.onrender.com",
+  "https://hivajoy.onrender.com",
+  "https://hivabytesweb.onrender.com",
   "https://hjuptimer.onrender.com",
   "https://hivajoy-file-to-link-bot-vats.onrender.com",
   "https://terabox-play.onrender.com",
