@@ -43,8 +43,11 @@ setInterval(pingAll, 300000);
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
-  
+
+app.get('/web', (req, res) => {
+  res.send(`Hello Server running`);
+});
 // Express server for webhook or other purposes
-app.listen(3000, () => {
+app.listen(8080, () => {
   console.log('Server is running on port 3000');
 });
