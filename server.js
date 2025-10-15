@@ -8,7 +8,7 @@ const URLs = [
   "https://hivajoy.onrender.com",
   "https://hivabytesweb.onrender.com",
   "https://hjuptimer.onrender.com",
-  "https://hivajoy-file-to-link-bot-8rpf.onrender.com",
+  "https://hivajoy-file-to-link-bot-p3xt.onrender.com",
   "https://terabox-play.onrender.com",
   "https://og-terabox-player.onrender.com",
   "https://astrologerbot.onrender.com"
