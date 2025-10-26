@@ -11,7 +11,8 @@ const URLs = [
   "https://hivajoy-file-to-link-bot-wbh7.onrender.com",
   "https://terabox-play.onrender.com",
   "https://shivamnox.onrender.com",
-  "https://astrologerbot.onrender.com"
+  "https://astrologerbot.onrender.com",
+  "https://hivajoyweb.onrender.com"
 ];
 
 const TIMEOUT = 30000;
