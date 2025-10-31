@@ -10,9 +10,10 @@ const URLs = [
   "https://hjuptimer.onrender.com",
   "https://hivajoy-file-to-link-bot-jmiw.onrender.com",
   "https://terabox-play.onrender.com",
-  "https://shivamnox.onrender.com",
+  "https://learnaryhub.onrender.com",
   "https://astrologerbot.onrender.com",
-  "https://hivajoyweb.onrender.com"
+  "https://hivajoyweb.onrender.com".
+  "https://save-restricted-content-zpao.onrender.com"
 ];
 
 const TIMEOUT = 30000;
