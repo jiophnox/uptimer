@@ -12,7 +12,7 @@ const URLs = [
   "https://terabox-play.onrender.com",
   "https://learnaryhub.onrender.com",
   "https://astrologerbot.onrender.com",
-  "https://hivajoyweb.onrender.com".
+  "https://hivajoyweb.onrender.com",
   "https://save-restricted-content-zpao.onrender.com"
 ];
 
