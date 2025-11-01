@@ -13,7 +13,7 @@ const URLs = [
   "https://learnaryhub.onrender.com",
   "https://astrologerbot.onrender.com",
   "https://hivajoyweb.onrender.com",
-  "https://save-restricted-content-zpao.onrender.com"
+  "https://save-restricted-content-zpao.onrender.com",
 ];
 
 const TIMEOUT = 30000;
